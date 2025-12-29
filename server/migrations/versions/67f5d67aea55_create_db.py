@@ -1,3 +1,4 @@
+# server/migrations/versions/67f5d67aea55_create_db.py
 """create db
 
 Revision ID: 67f5d67aea55
